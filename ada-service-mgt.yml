@@ -15,5 +15,5 @@ mysql:
 ada:
  mongo:
   db:
-   address: 192.168.250.200:27017
+   address: 122.144.134.95:27017
    name: ada
