@@ -3,7 +3,7 @@ mysql:
   driverclass: com.mysql.jdbc.Driver
   jdbcurl: jdbc:mysql://122.144.134.21:3306/ada-fd
   username: java_team
-  password: java_team_mgt321@!
+  password: java_team321@!
  jdbc:
   partitionCount: 3
   maxConnectionsPerPartition: 5
